@@ -11,5 +11,6 @@
         <file>images/soccer_shadow.png</file>
         <file>images/ufo.png</file>
         <file>images/ufo_background.png</file>
+        <file>RocketAnimation.qml</file>
     </qresource>
 </RCC>
