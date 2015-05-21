@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ClickableImage.qml</file>
+        <file>Transformation.qml</file>
+        <file>images/background.png</file>
+        <file>images/planet.png</file>
+        <file>images/rocket.png</file>
+        <file>images/rocket2.png</file>
+        <file>images/soccer_ball.png</file>
+        <file>images/soccer_shadow.png</file>
+        <file>images/ufo.png</file>
+        <file>images/ufo_background.png</file>
+    </qresource>
+</RCC>
